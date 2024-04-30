@@ -21,7 +21,7 @@ El objetivo de este proyecto es proporcionar una interfaz de usuario amigable pa
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/hadominguez/estadisticas-bcra.git
+git clone https://github.com/hadominguez/principales-variables-bcra.git
 ```
 
 2. **Instalar las dependencias:**
