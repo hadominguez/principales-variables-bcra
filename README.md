@@ -27,7 +27,7 @@ git clone https://github.com/hadominguez/principales-variables-bcra.git
 2. **Instalar las dependencias:**
 
 ```bash
-cd estadisticas-bcra
+cd principales-variables-bcra
 npm install
 ```
 
