@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a href="https://www.linkedin.com/in/hadominguez/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0e76a8&label=LinkedIn&message=Hern%C3%A1n%20Dom%C3%ADnguez"
+      alt="LinkedIn"
+    />
+  </a>
+<a  href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" style="height: 20px !important;" />
+</a>
 
-## Getting Started
+# Principales Variables BCRA
 
-First, run the development server:
+Este proyecto utiliza Next.js con Tailwind CSS y TypeScript para mostrar información de las principales variables publicadas por el Banco Central de la República Argentina (BCRA) a través de su API de [Principales Variables](https://www.bcra.gob.ar/BCRAyVos/catalogo-de-APIs-banco-central.asp).
+
+## Descripción
+
+El objetivo de este proyecto es proporcionar una interfaz de usuario amigable para acceder a datos financieros clave proporcionados por el BCRA. Los usuarios pueden ver una lista de las principales variables publicadas por el BCRA, seleccionar una variable específica y ver los datos correspondientes para un rango de fechas determinado.
+
+## Configuración
+
+1. **Clonar el repositorio:**
+
+```bash
+git clone https://github.com/hadominguez/estadisticas-bcra.git
+```
+
+2. **Instalar las dependencias:**
+
+```bash
+cd estadisticas-bcra
+npm install
+```
+
+3. **Ejecutar la aplicación:**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+La aplicación estará disponible en <http://localhost:3000>.
