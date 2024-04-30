@@ -3,9 +3,9 @@
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0e76a8&label=LinkedIn&message=Hern%C3%A1n%20Dom%C3%ADnguez"
       alt="LinkedIn"
     />
-  </a>
+</a>
 <a  href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" style="height: 20px !important;" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" style="height: 20px !important;" />
 </a>
 
 # Principales Variables BCRA
