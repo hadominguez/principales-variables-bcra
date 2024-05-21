@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" style="height: 20px !important;" />
 </a>
 
-# Principales Variables BCRA
+# Principales Variables BCRA V2.0
 
 Este proyecto utiliza Next.js con Tailwind CSS y TypeScript para mostrar información de las principales variables publicadas por el Banco Central de la República Argentina (BCRA) a través de su API de [Principales Variables](https://www.bcra.gob.ar/BCRAyVos/catalogo-de-APIs-banco-central.asp).
 
